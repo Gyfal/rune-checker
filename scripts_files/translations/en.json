@@ -1,0 +1,9 @@
+{
+	"Ping_Minimap": "Ping on minimap",
+	"Ping_Minimap_Turn_Off_By_Time": "Disable pings (by time)",
+	"Ping_Minimap_Turn_Off_By_Time_Tooltip": "Disable minimap pings\nafter (x) game time (minutes)",
+	"Tormentor_notif_tooltip": "Show pings on the minimap\n until a new tormentor appears (only you can see)",
+	"Tormentor_Before_Spawn_Timer": "Time until notification of the Tormentor spawn",
+	"Tormentor_Before_Spawn_Timer_Tooltip": "The time is given in seconds",
+	"s": "s."
+}

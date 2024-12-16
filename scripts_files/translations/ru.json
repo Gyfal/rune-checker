@@ -1,0 +1,9 @@
+{
+	"Ping_Minimap": "Пинг на миникарте",
+	"Ping_Minimap_Turn_Off_By_Time": "Отключить пинги (по времени)",
+	"Ping_Minimap_Turn_Off_By_Time_Tooltip": "Отключить пинги на миникарте\nпосле (x) игровового времени (минуты)",
+	"Tormentor_notif_tooltip": "Показывать пинги на миникарте\n до появления нового терзателя (видите только вы)",
+	"Tormentor_Before_Spawn_Timer": "Время до уведомления о спавне",
+	"Tormentor_Before_Spawn_Timer_Tooltip": "Время указывается в секундах",
+	"s": "c"
+}
